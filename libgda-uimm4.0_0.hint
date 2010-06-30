@@ -1,0 +1,7 @@
+category: Gnome
+requires: libatkmm1.6_1 libgcc1 libgda-ui4.0_4 libgdamm4.0_12 libglib2.0_0 libglibmm2.4_1 libgtkmm2.4_1 libsigc2.0_0 libstdc++6
+external-source: libgda-uimm4.0
+sdesc: "C++ bindings for libgda-ui (runtime)"
+ldesc: "libgda-uimm is a C++ wrapper for libgda-ui, a library of ui 
+widgets based on GTK+ for libgda, the gnome database access library.  
+libgda-uimm wraps the libgda-ui widgets using gtkmm."

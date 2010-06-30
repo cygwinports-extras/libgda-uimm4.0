@@ -1,0 +1,5 @@
+category: Gnome
+sdesc: "C++ bindings for libgda-ui (sources)"
+ldesc: "libgda-uimm is a C++ wrapper for libgda-ui, a library of ui 
+widgets based on GTK+ for libgda, the gnome database access library.  
+libgda-uimm wraps the libgda-ui widgets using gtkmm."
