@@ -1,5 +1,5 @@
 inherit gtkmm
 
-PKG_NAMES="${PN} ${PN}_0 ${PN}-devel"
+PKG_NAMES="${PN}_0 ${PN}-devel"
 libgda_uimm4_0_0_CONTENTS="--exclude=libgda-uimm-4.0 usr/bin/*-4.0-0.dll usr/share/doc/"
 libgda_uimm4_0_devel_CONTENTS='usr/include/ usr/lib/ usr/share/devhelp/ usr/share/doc/libgda-uimm-4.0/'
